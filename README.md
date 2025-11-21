@@ -27,3 +27,15 @@ npm run dev
 
 Open
 http://localhost:3000
+
+## Dummy users
+
+### Admin
+
+email: test@test.se
+password: hej123
+
+### User
+
+email test2@test.se
+password: hej123
