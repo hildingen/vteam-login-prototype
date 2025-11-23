@@ -1,4 +1,6 @@
-# Login prototype created for course DV1676 at BTH.
+# Login prototype
+
+This repo contains the codebase for a login prototype for the course DV1676 at BTH.
 
 ## Colors
 
