@@ -37,5 +37,5 @@ password: hej123
 
 ### User
 
-email test2@test.se
+email: test2@test.se
 password: hej123
