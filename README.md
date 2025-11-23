@@ -1,3 +1,5 @@
+# Login prototype created for course DV1676 at BTH.
+
 ## Colors
 
 -   Background: #EFECE3
@@ -44,3 +46,6 @@ npm run dev
 
 -   email: test2@test.se
 -   password: hej123
+
+--------------------
+David Hildingsson
