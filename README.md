@@ -31,7 +31,7 @@ JWT_SECRET=<Your jwt secret>
 npm run dev
 ```
 
-6. Open in browserhttp://localhost:3000
+6. Open in browser http://localhost:3000
 
 ## Dummy users
 
