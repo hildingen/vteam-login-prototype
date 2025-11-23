@@ -9,33 +9,38 @@
 
 ## How to run
 
+1. Clone repo
+
+2. Open repo in editor
+
+3. Run
+
 ```
 npm install
 ```
 
-Create .env.local at root and add
+4. Create .env.local at root and add
 
 ```
 JWT_SECRET=<Your jwt secret>
 ```
 
-Run
+5. Run
 
 ```
 npm run dev
 ```
 
-Open
-http://localhost:3000
+6. Open in browserhttp://localhost:3000
 
 ## Dummy users
 
-### Admin
+1. Admin
 
-email: test@test.se
-password: hej123
+-   email: test@test.se
+-   password: hej123
 
-### User
+2. User
 
-email: test2@test.se
-password: hej123
+-   email: test2@test.se
+-   password: hej123
