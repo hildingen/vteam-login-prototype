@@ -13,7 +13,7 @@
 npm install
 ```
 
-Create env.local at root and add
+Create .env.local at root and add
 
 ```
 JWT_SECRET=<Your jwt secret>
